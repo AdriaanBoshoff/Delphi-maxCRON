@@ -3,4 +3,4 @@ Backup Archive of the lightweight CRON scheduler for Delphi by MaxLogic. I did n
 
 If you are the author and you want me to remove this please do not hesitate to contact me.
 
-Original Author: https://maxlogic.eu/open_source/subclassing-hooking-windows-with-delphi/
+Original Author: [https://maxlogic.eu/open_source/subclassing-hooking-windows-with-delphi/](https://maxlogic.eu/portfolio/maxcron-scheduler-for-delphi/)
